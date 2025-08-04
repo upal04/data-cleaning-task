@@ -1,6 +1,7 @@
 # Task 1: Data Cleaning and Preprocessing
 
 **Internship Role:** Data Analyst (**Elevate Labs**)
+
 **Tool Used:** Microsoft Excel  
 **Dataset Used:** Medical Appointment No Shows  
 **Dataset Type:** Csv file
